@@ -4,7 +4,7 @@ __pycache__/
 *$py.class
 
 #Tests folder
-todo.txt
+TODO.txt
 bin/run.bat
 bin/Tests/vim_cheat_sheet.png
 docs/*
