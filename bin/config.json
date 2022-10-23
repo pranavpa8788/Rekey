@@ -1,0 +1,26 @@
+{
+  "window_position_x": "50%",
+  "window_position_y": "50%",
+
+  "window_width": "50%",
+  "window_height": "50%",
+
+  "window_borderless": true,
+  "window_stays_on_top": true,
+
+  "fit_to_image": true,
+  "image_margin": 0,
+
+  "background_color": "#2b2a33",
+
+  "starting_directory": "Tests",
+  "starting_node": "None",
+
+  "key_window_toggle": "<ctrl> + <shift> + r",
+  "key_window_exit": "<ctrl> + <shift> + q",
+
+  "key_up": "<ctrl> + k",
+  "key_down": "<ctrl> + j",
+  "key_left": "<ctrl> + h",
+  "key_right": "<ctrl> + l"
+}
