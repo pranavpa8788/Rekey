@@ -4,10 +4,8 @@ __pycache__/
 *$py.class
 
 #Tests folder
-TODO.txt
 bin/run.bat
 bin/Tests/vim_cheat_sheet.png
-docs/*
 
 # C extensions
 *.so
