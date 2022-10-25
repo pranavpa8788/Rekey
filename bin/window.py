@@ -1,6 +1,5 @@
 import os
 from json import load
-
 from PyQt5.QtWidgets import (
         QWidget,
         QMainWindow,
