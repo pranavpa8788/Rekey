@@ -2,7 +2,7 @@
 
 # Introduction
 
-I always wished I could have an image reference tool so I could quickly refer to them without disturbing my workflow. Then this wish grew from a want to a need.
+I always wished I could have an image reference tool so I could quickly refer to them without disturbing my workflow. Then this wish grew from a want to a need. Hence I developed this tool written using Python, where I can reference any number of images I want without leaving my keyboard or having to use my mouse.
 Hence I developed this tool written using Python, where I can reference any number of images I want without leaving my keyboard or having to use my mouse.
 
 Using Rekey you can invoke a window and navigate through the directory which contains your reference images, all by using only keybindings!
