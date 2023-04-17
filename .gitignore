@@ -4,8 +4,11 @@ __pycache__/
 *$py.class
 
 #Tests folder
+Tests/
 bin/run.bat
 bin/Tests/vim_cheat_sheet.png
+bin/test.py
+notes.txt
 
 # C extensions
 *.so
