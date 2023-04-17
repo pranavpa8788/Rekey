@@ -12,7 +12,6 @@ from PyQt5.QtCore import Qt, pyqtSlot, QObject, QThread, pyqtSignal
 from PyQt5.QtGui import QPixmap, QPalette, QColor
 from PIL import Image
 from pynput import keyboard
-
 import tree
 import extensions
 
@@ -28,7 +27,6 @@ TO DO:
     * Compatibility when current node is provided as full path - done
     * Add flags and tests for always_on_top, borderless_window - done
 '''
-
 
 class KeyListener(QObject):
     window_toggle_signal = pyqtSignal(bool)
